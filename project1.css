@@ -44,4 +44,59 @@
 }
 .image2{
     margin-left: 250px;
+    padding: 100px;
+}
+h3{
+   font-size: 25px;
+   text-align: center;
+   padding: 20px;
+}
+.pic{
+    display: flex;
+    margin-left: 400px;
+    gap: 120px;
+    text-align: center;
+}
+.btm{
+    width: 150px;
+    height: 50px;
+    background-color: #F15B22;
+    border-radius: 5px;
+    border: none;
+    color:white;
+}
+.third-text{
+    margin-left: 350px;
+}
+.section3{
+    background: url(watch.png);
+    background-repeat: no-repeat;
+    padding: 100px;
+    background-position-x: 300px;
+    border-radius: 5px;
+}
+.pic5{
+    display: flex;
+    padding-top: 15px;
+}
+.btn3{
+    width: 150px;
+    height: 50px;
+    background-color: #F15B22;
+    border-radius: 5px;
+    border: none;
+    color:white;
+    padding-left: 10px;
+}
+.email{
+    width: 150px;
+    height: 30px;
+    padding-top: 10px;
+}
+.foter3{
+    display: flex;
+    padding:50px;
+    justify-content: space-between;
+    margin-left: 250px;
+    margin-right: 500px;
 }
